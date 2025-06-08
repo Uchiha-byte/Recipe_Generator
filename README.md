@@ -1,4 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
 
 # Recipe-Generation-from-Food-Image
 
